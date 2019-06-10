@@ -16,7 +16,8 @@ class Products extends Component {
                 slug : 'samsung',
                 name : 'Samsung 8',
                 price : 4500000
-            },{
+            },
+            {
                 id : 3,
                 slug : 'oppo',
                 name : 'Oppo 9',
